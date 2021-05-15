@@ -1,8 +1,12 @@
-👋
+<!--![Alt Text](https://d1.awsstatic.com/WWPS/images/My%20First%20Workload%20Icon_Dev%20Test.46e25e4dd9fae2e72b622b2de9d5745fdf67898c.gif) -->
 
-☁💻⚙
+                                                                 👋
 
-📚🗻✈💪
+                                                               ☁💻⚙
+
+                                                             📚🗻✈💪
+
+
 <!--
 **sukhjinderpalsingh/sukhjinderpalsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
